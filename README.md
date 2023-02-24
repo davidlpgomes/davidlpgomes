@@ -1,21 +1,11 @@
 ### Hi there 👋
 
-I'm a computer science student at the Federal University of Paraná and an undergraduate researcher in machine learning.
+- 🎓 Computer Science student at the Federal University of Paraná (UFPR)
+- 🤖 Undergraduate researcher in Machine Learning
+- 👨‍💻 I like working with C/C++ and Python.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=davidlpgomes&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlpgomes&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=davidlpgomes&count_private=true&theme=nightowl&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlpgomes&theme=nightowl)]()
 
-<!--
-**davidlpgomes/davidlpgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/davidlpgomes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
