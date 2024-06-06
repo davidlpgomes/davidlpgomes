@@ -2,8 +2,8 @@
 
 - 🎓 Computer Science student at the Federal University of Paraná (UFPR)
 - 🤖 Undergraduate researcher in Machine Learning
-- 🤩 My main interests are Machine Learning, Artificial Intelligence, Operating Systems and Algorithms
-- 👨‍💻 I like working with C/C++ and Python
+- 🤩 My main interests are Machine Learning/Artificial Intelligence, Algorithms, Security and Operating Systems 
+- 👨‍💻 I like working with C/C++ and Python (currently studying Rust)
 - 🐧 btw i use arch
 
 <a href="https://www.kaggle.com/davidlpgomes" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
